@@ -1,2 +1,3 @@
 # Freight-Management-System
-FMS
+Email: admin
+Password: password
