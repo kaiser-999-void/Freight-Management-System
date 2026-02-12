@@ -1,3 +1,3 @@
 # Freight-Management-System
-Email: admin
-Password: password
+Email: admin;
+Password: password;
